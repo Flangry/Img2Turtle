@@ -24,7 +24,7 @@ Img2Turtle is a Python script that utilizes the Turtle graphics library and the 
 2. Run the script:
 
     ```bash
-    python flangry.py
+    python Img2Turtle.py
     ```
 
 ## Usage
