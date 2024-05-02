@@ -31,7 +31,7 @@ Img2Turtle is a Python script that utilizes the Turtle graphics library and the 
 
 1. Run the script using Python.
 2. Enter the location of the image file when prompted.
-3. Enter the scale of the image as a decimal (e.g., 0.1 for 10%, 1 for 100%).
+3. Enter the scale of the image as a decimal (e.g. 0.1 for 10%, 1 for 100%).
 4. It will take some time to render your image depending on the size of the image. Windows will tell you that the program has stopped responding, please be patient
 5. View the rendered image using Turtle graphics.
 
